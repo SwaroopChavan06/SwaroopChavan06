@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandeep Khandare</h1> 
+<h1 align="center">Hi 👋, I'm Swaroop Chavan</h1> 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" height="216" alt="Sandeep Khandare">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" height="216" alt="Swaroop Chavan">
 </p>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/sandeep-khandare1010" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-khandare1010" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/SandeepKhandare10/" target="_blank">
+  <a href="https://leetcode.com/u/Swaroop9503/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep-khandare10" height="30" width="40" />
   </a>
 </p>
@@ -55,7 +55,7 @@
 </p>
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/SandeepKhandare10?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Swaroop9503?ext=heatmap)
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkhandare10&show_icons=true&locale=en&layout=compact" alt="sandeepkhandare10" />
