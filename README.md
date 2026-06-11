@@ -1,65 +1,134 @@
-<h1 align="center">Hi 👋, I'm Swaroop Chavan</h1> 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" height="216" alt="Swaroop Chavan">
-</p>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+# Hi 👋, I'm Swaroop Chavan
+
+### Software Engineer | Backend & Fintech Systems Enthusiast
 
 <p align="center">
-I’m currently working as a <b>Software Developer</b> in a product-based <b>fintech company</b>, where I build scalable backend systems using <b>Node.js, MongoDB, and AWS</b> and integrate payment gateways like <b>Razorpay</b> and <b>Cashfree</b>.  
-<br><br>
-With a strong foundation in <b>JavaScript, React, and backend architecture</b>, I’m passionate about crafting high-performance, user-centric products that solve real-world problems.  
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" alt="coding">
+</p>
+
+<p align="center">
+Building scalable backend systems, distributed services, and fintech products that serve real users.
 </p>
 
 ---
 
-<h3 align="center">🏆 Achievements & Highlights</h3>
-<ul>
-  <li>🏅 <b>Best President Award</b> among departmental associations for leadership and contribution to tech community growth.</li>
-  <li>🥇 <b>Project-Based Learning Winner</b> for developing a digital medical record management system using <b>MERN stack</b>.</li>
-  <li>💡 Created <b>Disha Navigation System</b> — an indoor navigation app using <b>Unity 3D and Google AR Core</b>.</li>
-  <li>🚀 Built and deployed scalable APIs and backend logic for fintech operations and real-time data processing.</li>
-</ul>
+## 🚀 About Me
+
+* 💼 Software Engineer at a fintech platform with **10M+ app downloads**
+* 🔧 Building scalable APIs, reconciliation systems, and payment automation workflows
+* ☕ Strong focus on **Java, Spring Boot, Distributed Systems, Microservices**
+* 🌱 Currently learning **System Design, Golang, Kafka, Cloud Architecture**
+* ⚡ Passionate about solving complex backend challenges and optimizing performance
+* 🧠 200+ DSA problems solved on LeetCode
+* 🚀 Building side projects and products from scratch
 
 ---
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-  <a href="https://www.linkedin.com/in/swaroopch06/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SwaroopChavan06" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Swaroop9503/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SwaroopChavan06" height="30" width="40" />
-  </a>
-</p>
+## 🏆 Achievements
+
+* 🏅 Best President Award for leadership and community contribution
+* 🥇 1st Prize – Project Based Learning Competition (MERN Stack)
+* 🚀 Designed and shipped automated fintech workflows reducing manual effort by 70%+
+* ⚙️ Built high-concurrency backend services handling real-world payment operations
+* 📱 Developed AR-based Indoor Navigation System using Unity3D & AR Core
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💼 Professional Experience
+
+### Software Engineer I | InCred Money
+
+* Built end-to-end Razorpay Refund Automation System
+* Developed reconciliation systems for payment partners
+* Solved race conditions using distributed locking strategies
+* Implemented Redis caching for high-traffic APIs
+* Worked on CI/CD pipelines and production deployments
+* Built notification systems supporting Email, SMS, WhatsApp and Push Notifications
+
+**Tech Stack:** Java, Spring Boot, Golang, Node.js, PostgreSQL, Redis, AWS
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+
+### Database & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
+
+---
+
+## 📚 Current Learning Journey
+
+```text
+Backend Engineering
+├── Java & Spring Boot ✅
+├── Distributed Systems ✅
+├── Redis & Caching ✅
+├── System Design 🔄
+├── Kafka 🔄
+├── Golang 🔄
+└── Cloud Architecture 🔄
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Fintech Automation Systems
+
+Automated refund processing, reconciliation pipelines, distributed locking, and notification services.
+
+### 🏥 Digital Medical Records
+
+MERN stack application for centralized patient records management.
+
+### 🧭 DISHA – AR Indoor Navigation
+
+Unity3D + AR Core navigation system with QR-based positioning.
+
+---
+
+## 📊 Coding Profiles
+
+* LeetCode: https://leetcode.com/u/Swaroop9503/
+* LinkedIn: https://linkedin.com/in/swaroopch06
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwaroopChavan06" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwaroopChavan06&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwaroopChavan06&layout=compact" />
 </p>
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Swaroop9503?ext=heatmap)
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwaroopChavan06&show_icons=true&locale=en&layout=compact" alt="SwaroopChavan06" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwaroopChavan06" alt="SwaroopChavan06" />
-</p>
-
----
-
-<h3 align="center">💬 “Code with logic, lead with passion, and build what inspires.”</h3>
+### 💡 "Building systems that scale, solving problems that matter."
